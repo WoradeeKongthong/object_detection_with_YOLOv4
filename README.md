@@ -1,3 +1,1 @@
-/project/data/diningroom.jpg
-/project/data/livingroom.jpg
-/project/data/kidroom.jpg
+# Object detection with YOLOv4
