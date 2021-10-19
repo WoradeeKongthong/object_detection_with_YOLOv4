@@ -1,3 +1,3 @@
-/project/data/diningroom.jpg
-/project/data/livingroom.jpg
-/project/data/kidroom.jpg
+./object_detection_with_YOLOv4/data/diningroom.jpg
+./object_detection_with_YOLOv4/data/livingroom.jpg
+./object_detection_with_YOLOv4/data/kidroom.jpg
